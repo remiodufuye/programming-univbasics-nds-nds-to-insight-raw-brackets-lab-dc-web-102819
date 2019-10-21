@@ -8,7 +8,12 @@ def directors_totals(nds)
   #
   # The Hash result be full of things like "Jean-Pierre Jeunet" => "222312123123"
   
-   pp directors_database 
+   hash = {
+  "1st Director's Name"=>1234567890,
+  "2nd Director's Name"=>1234577890,
+  "3rd Director's Name"=>1234709136,
+  ...
+}
   
   result = {
   }
