@@ -22,7 +22,7 @@ def directors_totals(nds)
   #
   #
   # Be sure to return the result at the end!
-i = 0
+   i = 0
   totals = {}
   
   while i < nds.length do
